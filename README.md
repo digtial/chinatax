@@ -3,11 +3,11 @@
 ### 联系QQ：3421366528。
 
 ### 验证码识别率97%。
-Python请求示例代码如下：
 
-***请使用post，get不返回数据。***
+***请使用post，get返回网页指导。***
 
 **验证码识别**
+Python请求示例代码如下：
 ```python
 import base64
 import requests
