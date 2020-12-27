@@ -23,7 +23,7 @@ result = requests.post('http://42.192.80.101:8808/captcha', json=data)
 result = requests.post('http://47.99.174.98:8808/captcha', json=data)
 # 返回json格式数据{"code": "7RT"}
 print(result.json())
-
+```
 
 
 JAVA请求代码如下：
