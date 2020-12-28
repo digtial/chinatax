@@ -6,7 +6,9 @@
 ### 然后好了，他的博客已经恢复正常了，然而我的账号没了，我不管是不是你举报的，至少我没有第一时间发帖说是你举报的，说明你很在意别人做的识别模型。还说别人不讲武德，你自己才是最不讲武德的。
 
 ### 看他的发的消息截图：
-  ![Image text](https://github.com/digtial/chinatax/blob/main/%E6%B6%88%E6%81%AF%E6%88%AA%E5%9B%BE.JPG)
+![Image text](https://github.com/digtial/chinatax/blob/main/%E6%B6%88%E6%81%AF%E6%88%AA%E5%9B%BE.JPG)
+  
+  
 ***请使用post，get返回网页指导。***
 
 **验证码识别**
