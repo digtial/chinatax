@@ -23,7 +23,7 @@ with open('./test02.png', 'rb') as f:
 img_base64 = base64.b64encode(img_bytes)
 # '00' 黑色 '01' 红色 '02' 黄色 '03' 蓝色
 data = {'image': str(img_base64, 'utf-8'), 'key': '03'}
-result = requests.post('http://ai1024.xyz:8808/captcha', json=data)
+result = requests.post('http://47.99.174.98:8808/captcha', json=data)
 # 返回json格式数据{"code": "7RT"}
 print(result.json())
 ```
@@ -38,7 +38,7 @@ import java.util.Base64;
 
 
 public class CaptchaRecognize {
-    static String captcha_url = "http://ai1024.xyz:8808/captcha";
+    static String captcha_url = "http://47.99.174.98:8808/captcha";
 
     public static String getBase64(String imgFile) {
         InputStream inputStream = null;
@@ -92,7 +92,7 @@ public class CaptchaRecognize {
 ```python
 import requests
 data = {'fpdm': '042001900211', 'fphm': '88825677', 'rq': '20200510', 'jym': '240140'}
-result = requests.post('http://ai1024.xyz:8808/fp', json=data)
+result = requests.post('http://47.99.174.98:8808/fp', json=data)
 print(result.json())
 ```
 
