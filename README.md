@@ -91,7 +91,7 @@ public class CaptchaRecognize {
 42开头的服务器即将到期，请使用如下的地址。
 ```python
 import requests
-data = {'fpdm': '042001900211', 'fphm': '88825767', 'rq': '20200510', 'jym': '240104'}
+data = {'fpdm': '123456777777', 'fphm': '12324444', 'rq': '2020456', 'jym': '244444'}
 result = requests.post('http://47.99.174.98:8808/fp', json=data)
 print(result.json())
 ```
