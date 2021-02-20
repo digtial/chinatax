@@ -1,5 +1,5 @@
 # chinatax
-# 国家增值税发票查验平台验证码识别
+# 国税总局增值税发票查验平台验证码识别
 ## CSDN地址：https://blog.csdn.net/Open_CV_NLP_New
 ## 博客园地址：https://www.cnblogs.com/open-cv-nlp/p/14269675.html
 ### 联系QQ：3421366528。
