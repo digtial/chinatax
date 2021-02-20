@@ -4,9 +4,7 @@
 ## 博客园地址：https://www.cnblogs.com/open-cv-nlp/p/14269675.html
 ### 联系QQ：3421366528。
 ### 有段时间没看github了，新的一年继续干。
-  
-  
-***请使用post，get返回网页指导。***
+
 
 **验证码识别**
 Python请求示例代码如下：
