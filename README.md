@@ -7,6 +7,7 @@
 
 
 **验证码识别**
+
 Python请求示例代码如下：
 ```python
 import base64
