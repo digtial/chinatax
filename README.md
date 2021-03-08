@@ -2,6 +2,7 @@
 # 国税总局增值税发票查验平台验证码识别
 ## CSDN地址：https://blog.csdn.net/Open_CV_NLP_New
 ## 博客园地址：https://www.cnblogs.com/open-cv-nlp/p/14269675.html
+## 个人网址：http://47.99.174.98:8808/
 ### 联系QQ：3421366528。
 ### 有段时间没看github了，新的一年继续干。
 
@@ -81,7 +82,7 @@ public class CaptchaRecognize {
 
 ```
 
-### 发票查验,结果秒回哦
+### 发票查验
 查验规则同国税局官网，参数为发票代码、发票号码、开票日期、校验码。
 
 PS:1.用真实发票查验，下面的data已经脱敏。2.查验专票jym填写不含税金额。
