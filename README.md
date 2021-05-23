@@ -3,7 +3,7 @@
 ## CSDN地址：https://blog.csdn.net/Open_CV_NLP_New
 ## 博客园地址：https://www.cnblogs.com/open-cv-nlp/p/14269675.html
 ## 个人网址：http://47.99.174.98:8808/
-### 联系QQ：3421366528。
+# 联系QQ：3421366528。
 ### 新的一年继续干，识别效果不错哦。
 # 已经适配新版验证码。
 
